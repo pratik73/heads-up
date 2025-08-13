@@ -1,0 +1,28 @@
+{
+    "name": "Guess the Word: Heads Up!",
+    "short_name": "Heads Up!",
+    "description": "A fun mobile-friendly word guessing game inspired by Heads Up",
+    "start_url": "./",
+    "display": "standalone",
+    "background_color": "#667eea",
+    "theme_color": "#2196F3",
+    "orientation": "portrait-primary",
+    "scope": "./",
+    "icons": [
+        {
+            "src": "icons/icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "icons/icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "categories": ["games", "entertainment"],
+    "lang": "en",
+    "dir": "ltr"
+}
